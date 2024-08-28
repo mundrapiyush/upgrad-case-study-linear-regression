@@ -27,7 +27,7 @@ Build a multiple linear regression model for the prediction of demand for shared
  - How well those variables describe the bike demands
 
 ### Bike Ride Set  
-It contains the number of bike rides booked for days with different parameters (weather condition, temperature etc.)for the day for all loans issued through the time period 2007 t0 2011.
+It contains the number of bike rides booked for days with different parameters (weather condition, temperature etc.)for the years 2018 and 2019.
 
 ### Data Dictionary
 The data dictionary that describes the meaning of the columns present in the dataset.
